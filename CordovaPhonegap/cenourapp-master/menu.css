@@ -20,7 +20,7 @@ body {
 }
 
 label {
-    background: center top no-repeat #563429;
+    background: center top 0.5em no-repeat #563429;
     background-size: 4em;
     color: white;
     display: block;
